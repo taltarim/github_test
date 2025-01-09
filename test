@@ -11,7 +11,8 @@ int main() {
     square = number * number;
 
     // 결과 출력
-    printf("입력하신 숫자의 제곱은 %d입니다.\n", square);
+    printf("당신이 입력하신 숫자의 제곱은 %d입니다.\n", square);
 
     return 0;
 }
+
